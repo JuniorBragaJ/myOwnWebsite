@@ -32,8 +32,8 @@ const Header = () => {
                     value={selectedLang}
                     onChange={handleChangeLanguage}
                     options={[
-                        { label: 'Português', value: 'ptbr' },
-                        { label: 'Inglês', value: 'en' },
+                        { label: t('portuguese'), value: 'ptbr' },
+                        { label: t('english'), value: 'en' },
                     ]}
                     placeholder="Lang"
                 />

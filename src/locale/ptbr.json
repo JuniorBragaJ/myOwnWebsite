@@ -1,6 +1,9 @@
 {
     "translation": {
         "header": "Cabeçalho",
-        "projects": "Projetos"
+        "projects": "Projetos",
+        "home": "Inicio",
+        "english": "Inglês",
+        "portuguese": "Português"
     }
 }
