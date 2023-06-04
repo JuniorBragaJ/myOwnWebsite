@@ -4,6 +4,8 @@
         "projects": "Projects",
         "home": "Home",
         "english": "English",
-        "portuguese": "Portuguese"
+        "portuguese": "Portuguese",
+        "about_me": "About me",
+        "contact": "Contact"
     }
 }

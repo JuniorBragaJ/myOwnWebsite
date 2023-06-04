@@ -1,20 +1,18 @@
 import { t } from "i18next"
 import { useTranslation } from "react-i18next"
 import styled from "styled-components"
-import MainScreen from "../../components/mainScreen/MainScreen"
 
 
-const Home = () => {
+const AboutMe = () => {
     const { t } = useTranslation()
 
     return (
-        <div style={{height: '200vh'}}>
-            <MainScreen />
+        <div>
             <h1>
-                {t('home')}
+                {t('about_me')}
             </h1>
         </div>
     )
 }
 
-export default Home
+export default AboutMe
